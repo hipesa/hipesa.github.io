@@ -804,7 +804,7 @@ input:focus {
 -------------------------------------------------------------------------------*/
 
 .header {
-  padding-top: 1.5rem;
+  /* padding-top: 1.5rem; */
   /*transition: color .2s ease-in-out;*/
   transition: margin-top .5s ease-in-out;
   margin-top: 0;
@@ -6156,9 +6156,9 @@ a:hover .project-metro-photo img {
   11. Project Card
 -------------------------------------------------------------------------------*/
 
-.project-card-mobile {
+/* .project-card-mobile {
   padding-top: 5.375rem;
-}
+} */
 
 .project-card-promo {
   height: 0;
