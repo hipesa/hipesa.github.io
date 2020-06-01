@@ -881,7 +881,7 @@ input:focus {
 }
 
 .brand {
-  float: left;
+  float: right;
   margin-right: 1rem;
   white-space: nowrap;
 }
@@ -895,6 +895,7 @@ input:focus {
 .brand-text {
   display: inline-block;
   vertical-align: middle;
+
 }
 
 .brand-name {
